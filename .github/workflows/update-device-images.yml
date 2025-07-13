@@ -32,7 +32,12 @@ jobs:
     - name: Check for changes
       id: git-check
       run: |
-        git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+        if git diff --exit-code; then
+          echo "No differences detected"
+        else
+          echo "New contents in file, updating"
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
         
     - name: Commit and push changes
       if: steps.git-check.outputs.changes == 'true'
