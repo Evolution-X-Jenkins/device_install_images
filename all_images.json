@@ -1,0 +1,2840 @@
+[
+    {
+        "device": "PL2",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "Pong",
+        "versions": {
+            "bka": [
+                "super_empty",
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc": [
+                "super_empty",
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "super_empty",
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "super_empty",
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "akita",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "aston",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "bathena",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "beckham",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "beryllium",
+        "versions": {
+            "bka": [
+                "super_empty",
+                "recovery"
+            ],
+            "udc": [
+                "super_empty",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "super_empty",
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "super_empty",
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "beyond0lte",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "beyond1lte",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "beyond2lte",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "beyondx",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "bluejay",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "blueline",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "dtbo",
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "bonito",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "borneo",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "caiman",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "capri",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "caprip",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "cebu",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "cepheus",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "channel",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto"
+            ],
+            "udc": [
+                "boot",
+                "dbto"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto"
+            ],
+            "vic": [
+                "boot",
+                "dbto"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto"
+            ]
+        }
+    },
+    {
+        "device": "cheeseburger",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "cheetah",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "cmi",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "comet",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "crosshatch",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "dtbo",
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "cupid",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "d1",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "d2s",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "d2x",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "davinci",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "devon",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "dubai",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "dumpling",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "evert",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "f62",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "felix",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "garnet",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "ginkgo",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "gta4xl",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "gta4xlwifi",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "guacamole",
+        "versions": {
+            "bka": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "guacamoleb",
+        "versions": {
+            "bka": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "guam",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "guamp",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "hawao",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "haydn",
+        "versions": {
+            "bka": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
+            "udc": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
+            "udc-vanilla": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
+            "vic": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
+            "vic-vanilla": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "hotdog",
+        "versions": {
+            "bka": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "udc": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "vic": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "hotdogb",
+        "versions": {
+            "bka": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "udc": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "vic": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "husky",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "instantnoodle",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "instantnoodlep",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "kane",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "kebab",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "komodo",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "lake",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto"
+            ],
+            "udc": [
+                "boot",
+                "dbto"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto"
+            ],
+            "vic": [
+                "boot",
+                "dbto"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto"
+            ]
+        }
+    },
+    {
+        "device": "laurel_sprout",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "lemonades",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "lisa",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "lynx",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "marble",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "miatoll",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "mido",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "mondrian",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "monet",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "nio",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "ocean",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto"
+            ],
+            "udc": [
+                "boot",
+                "dbto"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto"
+            ],
+            "vic": [
+                "boot",
+                "dbto"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto"
+            ]
+        }
+    },
+    {
+        "device": "oriole",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "panther",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "peridot",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "polaris",
+        "versions": {
+            "bka": [
+                "super_empty",
+                "recovery"
+            ],
+            "udc": [
+                "super_empty",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "super_empty",
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "super_empty",
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "pstar",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "pyxis",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "raphael",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo"
+            ],
+            "vic": [
+                "boot",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "raven",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "redwood",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "rhode",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "river",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto"
+            ],
+            "udc": [
+                "boot",
+                "dbto"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto"
+            ],
+            "vic": [
+                "boot",
+                "dbto"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto"
+            ]
+        }
+    },
+    {
+        "device": "rtwo",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "rubyx",
+        "versions": {
+            "bka": [
+                "super_empty",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "udc": [
+                "super_empty",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "udc-vanilla": [
+                "super_empty",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "super_empty",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "salami",
+        "versions": {
+            "bka": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "sapphire",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "sargo",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "scorpio",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "shiba",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "sky",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "stone",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "sunfish",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "sweet",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "tangorpro",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "tissot",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "tokay",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "topaz",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "troika",
+        "versions": {
+            "bka": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "udc": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "vic": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "umi",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "vayu",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "venus",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "veux",
+        "versions": {
+            "bka": [
+                "boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "vince",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "violet",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "xpeng",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "zeus",
+        "versions": {
+            "bka": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "udc": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "vic": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ]
+        }
+    },
+    {
+        "device": "zippo",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    }
+]
