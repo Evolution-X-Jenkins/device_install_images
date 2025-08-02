@@ -2496,6 +2496,46 @@
         }
     },
     {
+        "device": "tegu",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
         "device": "tissot",
         "versions": {
             "bka": [
@@ -2602,6 +2642,46 @@
                 "boot",
                 "dbto",
                 "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "tundra",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
             ]
         }
     },
