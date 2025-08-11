@@ -2028,6 +2028,26 @@
         }
     },
     {
+        "device": "r8s",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "raphael",
         "versions": {
             "bka": [
