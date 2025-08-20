@@ -52,6 +52,26 @@
         }
     },
     {
+        "device": "a52sxq",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "akita",
         "versions": {
             "bka": [
