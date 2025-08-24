@@ -2436,6 +2436,36 @@
         }
     },
     {
+        "device": "spartan",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "stone",
         "versions": {
             "bka": [
