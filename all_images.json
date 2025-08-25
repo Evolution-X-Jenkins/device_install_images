@@ -2466,6 +2466,16 @@
         }
     },
     {
+        "device": "spes",
+        "versions": {
+            "bka": [],
+            "udc": [],
+            "udc-vanilla": [],
+            "vic": [],
+            "vic-vanilla": []
+        }
+    },
+    {
         "device": "stone",
         "versions": {
             "bka": [
