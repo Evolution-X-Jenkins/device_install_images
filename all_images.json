@@ -5,6 +5,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -23,6 +26,12 @@
         "device": "Pong",
         "versions": {
             "bka": [
+                "super_empty",
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "super_empty",
                 "boot",
                 "recovery",
@@ -57,6 +66,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -75,6 +87,13 @@
         "device": "akita",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -117,6 +136,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -135,6 +157,12 @@
         "device": "bathena",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -172,6 +200,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -190,6 +221,10 @@
         "device": "beryllium",
         "versions": {
             "bka": [
+                "super_empty",
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "super_empty",
                 "recovery"
             ],
@@ -216,6 +251,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -234,6 +272,9 @@
         "device": "beyond1lte",
         "versions": {
             "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -256,6 +297,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -276,6 +320,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -294,6 +341,11 @@
         "device": "bluejay",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -326,6 +378,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -347,6 +402,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -365,6 +423,12 @@
         "device": "borneo",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -400,6 +464,13 @@
         "device": "caiman",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -446,6 +517,13 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -480,6 +558,13 @@
         "device": "caprip",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -525,6 +610,12 @@
                 "recovery",
                 "vbmeta"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -557,6 +648,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -575,6 +669,10 @@
         "device": "channel",
         "versions": {
             "bka": [
+                "boot",
+                "dbto"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dbto"
             ],
@@ -602,6 +700,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -620,6 +721,13 @@
         "device": "cheetah",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -662,6 +770,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -680,6 +791,13 @@
         "device": "comet",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -722,6 +840,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -741,6 +862,9 @@
         "device": "cupid",
         "versions": {
             "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -763,6 +887,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -781,6 +908,9 @@
         "device": "d2s",
         "versions": {
             "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -803,6 +933,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -823,6 +956,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -841,6 +977,13 @@
         "device": "devon",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -887,6 +1030,13 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -923,6 +1073,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -941,6 +1094,9 @@
         "device": "evert",
         "versions": {
             "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
                 "boot"
             ],
             "udc": [
@@ -963,6 +1119,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -981,6 +1140,13 @@
         "device": "felix",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1023,6 +1189,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1041,6 +1210,9 @@
         "device": "ginkgo",
         "versions": {
             "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1063,6 +1235,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1083,6 +1258,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1101,6 +1279,11 @@
         "device": "guacamole",
         "versions": {
             "bka": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "vbmeta",
                 "dtbo"
@@ -1135,6 +1318,11 @@
                 "vbmeta",
                 "dtbo"
             ],
+            "bka-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "vbmeta",
@@ -1161,6 +1349,12 @@
         "device": "guam",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -1201,6 +1395,12 @@
                 "recovery",
                 "vbmeta"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -1231,6 +1431,13 @@
         "device": "hawao",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -1275,6 +1482,11 @@
                 "vendor_boot",
                 "boot"
             ],
+            "bka-vanilla": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
             "udc": [
                 "dtbo",
                 "vendor_boot",
@@ -1301,6 +1513,11 @@
         "device": "hotdog",
         "versions": {
             "bka": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "vbmeta",
                 "dtbo",
                 "recovery"
@@ -1335,6 +1552,11 @@
                 "dtbo",
                 "recovery"
             ],
+            "bka-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
             "udc": [
                 "vbmeta",
                 "dtbo",
@@ -1361,6 +1583,13 @@
         "device": "husky",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1405,6 +1634,11 @@
                 "vbmeta",
                 "dtbo"
             ],
+            "bka-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
             "udc": [
                 "recovery",
                 "vbmeta",
@@ -1431,6 +1665,11 @@
         "device": "instantnoodlep",
         "versions": {
             "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "bka-vanilla": [
                 "recovery",
                 "vbmeta",
                 "dtbo"
@@ -1465,6 +1704,11 @@
                 "dbto",
                 "vbmeta"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dbto",
@@ -1495,6 +1739,11 @@
                 "vbmeta",
                 "dtbo"
             ],
+            "bka-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
             "udc": [
                 "recovery",
                 "vbmeta",
@@ -1521,6 +1770,13 @@
         "device": "komodo",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1564,6 +1820,10 @@
                 "boot",
                 "dbto"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dbto"
+            ],
             "udc": [
                 "boot",
                 "dbto"
@@ -1588,6 +1848,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -1606,6 +1869,11 @@
         "device": "lemonades",
         "versions": {
             "bka": [
+                "recovery",
+                "vbmeta",
+                "dtbo"
+            ],
+            "bka-vanilla": [
                 "recovery",
                 "vbmeta",
                 "dtbo"
@@ -1640,6 +1908,11 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -1666,6 +1939,13 @@
         "device": "lynx",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1710,6 +1990,11 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -1739,6 +2024,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1759,6 +2047,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1777,6 +2068,12 @@
         "device": "mondrian",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -1814,6 +2111,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1832,6 +2132,11 @@
         "device": "nio",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -1865,6 +2170,10 @@
                 "boot",
                 "dbto"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dbto"
+            ],
             "udc": [
                 "boot",
                 "dbto"
@@ -1887,6 +2196,11 @@
         "device": "oriole",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -1917,6 +2231,13 @@
         "device": "panther",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1959,6 +2280,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1977,6 +2301,10 @@
         "device": "polaris",
         "versions": {
             "bka": [
+                "super_empty",
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "super_empty",
                 "recovery"
             ],
@@ -2001,6 +2329,11 @@
         "device": "pstar",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -2033,6 +2366,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2053,6 +2389,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2071,6 +2410,10 @@
         "device": "raphael",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo"
             ],
@@ -2097,6 +2440,11 @@
         "device": "raven",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -2131,6 +2479,11 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2157,6 +2510,13 @@
         "device": "rhode",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -2200,6 +2560,10 @@
                 "boot",
                 "dbto"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dbto"
+            ],
             "udc": [
                 "boot",
                 "dbto"
@@ -2222,6 +2586,12 @@
         "device": "rtwo",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -2262,6 +2632,12 @@
                 "dtbo",
                 "boot"
             ],
+            "bka-vanilla": [
+                "super_empty",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
             "udc": [
                 "super_empty",
                 "vbmeta",
@@ -2289,6 +2665,11 @@
         "device": "salami",
         "versions": {
             "bka": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "recovery",
                 "vendor_boot"
@@ -2321,6 +2702,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2339,6 +2723,9 @@
         "device": "sargo",
         "versions": {
             "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
                 "boot"
             ],
             "udc": [
@@ -2361,6 +2748,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2379,6 +2769,13 @@
         "device": "shiba",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2421,6 +2818,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2439,6 +2839,11 @@
         "device": "spartan",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery"
@@ -2469,6 +2874,7 @@
         "device": "spes",
         "versions": {
             "bka": [],
+            "bka-vanilla": [],
             "udc": [],
             "udc-vanilla": [],
             "vic": [],
@@ -2479,6 +2885,9 @@
         "device": "stone",
         "versions": {
             "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
                 "boot"
             ],
             "udc": [
@@ -2501,6 +2910,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -2521,6 +2933,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2539,6 +2954,13 @@
         "device": "tangorpro",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2585,6 +3007,13 @@
                 "vendor_boot",
                 "init_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2621,6 +3050,9 @@
             "bka": [
                 "boot"
             ],
+            "bka-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -2639,6 +3071,13 @@
         "device": "tokay",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2681,6 +3120,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2699,6 +3141,11 @@
         "device": "troika",
         "versions": {
             "bka": [
+                "boot",
+                "dbto",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dbto",
                 "vbmeta"
@@ -2729,6 +3176,13 @@
         "device": "tundra",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -2771,6 +3225,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2791,6 +3248,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2809,6 +3269,11 @@
         "device": "venus",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -2843,6 +3308,10 @@
                 "boot",
                 "vendor_boot"
             ],
+            "bka-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "vendor_boot"
@@ -2868,6 +3337,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2888,6 +3360,9 @@
             "bka": [
                 "recovery"
             ],
+            "bka-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2906,6 +3381,13 @@
         "device": "xpeng",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -2951,6 +3433,12 @@
                 "vendor_boot",
                 "dtbo"
             ],
+            "bka-vanilla": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
             "udc": [
                 "recovery",
                 "boot",
@@ -2981,6 +3469,9 @@
         "device": "zippo",
         "versions": {
             "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
                 "recovery"
             ],
             "udc": [
