@@ -2873,12 +2873,24 @@
     {
         "device": "spes",
         "versions": {
-            "bka": [],
-            "bka-vanilla": [],
-            "udc": [],
-            "udc-vanilla": [],
-            "vic": [],
-            "vic-vanilla": []
+            "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
         }
     },
     {
