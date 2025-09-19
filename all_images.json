@@ -1866,6 +1866,47 @@
         }
     },
     {
+        "device": "lemonadep",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "lemonades",
         "versions": {
             "bka": [
