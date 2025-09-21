@@ -2668,16 +2668,16 @@
         "device": "rubyx",
         "versions": {
             "bka": [
-                "super_empty",
-                "vbmeta",
+                "boot",
                 "dtbo",
-                "boot"
+                "super_empty",
+                "vbmeta"
             ],
             "bka-vanilla": [
-                "super_empty",
-                "vbmeta",
+                "boot",
                 "dtbo",
-                "boot"
+                "super_empty",
+                "vbmeta"
             ],
             "udc": [
                 "super_empty",
@@ -2686,19 +2686,19 @@
                 "boot"
             ],
             "udc-vanilla": [
-                "super_empty",
-                "vbmeta",
+                "boot",
                 "dtbo",
-                "boot"
+                "super_empty",
+                "vbmeta"
             ],
             "vic": [
                 "boot"
             ],
             "vic-vanilla": [
-                "super_empty",
-                "vbmeta",
+                "boot",
                 "dtbo",
-                "boot"
+                "super_empty",
+                "vbmeta"
             ]
         }
     },
