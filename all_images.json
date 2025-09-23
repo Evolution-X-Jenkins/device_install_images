@@ -84,6 +84,29 @@
         }
     },
     {
+        "device": "a71",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
         "device": "akita",
         "versions": {
             "bka": [
@@ -154,6 +177,53 @@
         }
     },
     {
+        "device": "bangkk",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "bathena",
         "versions": {
             "bka": [
@@ -214,6 +284,53 @@
             ],
             "vic-vanilla": [
                 "boot"
+            ]
+        }
+    },
+    {
+        "device": "berlna",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
             ]
         }
     },
@@ -2170,6 +2287,29 @@
         }
     },
     {
+        "device": "nemo",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "nio",
         "versions": {
             "bka": [
@@ -2312,6 +2452,76 @@
                 "vendor_kernel_boot",
                 "vendor_boot",
                 "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "payton",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
+        "device": "penang",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
             ]
         }
     },
@@ -2595,6 +2805,53 @@
         }
     },
     {
+        "device": "rhodep",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "river",
         "versions": {
             "bka": [
@@ -2699,6 +2956,29 @@
                 "dtbo",
                 "super_empty",
                 "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "salaa",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
             ]
         }
     },
