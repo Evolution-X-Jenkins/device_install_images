@@ -26,16 +26,10 @@
         "device": "Pong",
         "versions": {
             "bka": [
-                "super_empty",
-                "boot",
-                "recovery",
-                "vendor_boot"
+                "recovery"
             ],
             "bka-vanilla": [
-                "super_empty",
-                "boot",
-                "recovery",
-                "vendor_boot"
+                "recovery"
             ],
             "udc": [
                 "super_empty",
@@ -53,10 +47,7 @@
                 "recovery"
             ],
             "vic-vanilla": [
-                "super_empty",
-                "boot",
-                "recovery",
-                "vendor_boot"
+                "recovery"
             ]
         }
     },
@@ -87,22 +78,22 @@
         "device": "a71",
         "versions": {
             "bka": [
-                "boot"
+                "recovery"
             ],
             "bka-vanilla": [
-                "boot"
+                "recovery"
             ],
             "udc": [
-                "boot"
+                "recovery"
             ],
             "udc-vanilla": [
-                "boot"
+                "recovery"
             ],
             "vic": [
-                "boot"
+                "recovery"
             ],
             "vic-vanilla": [
-                "boot"
+                "recovery"
             ]
         }
     },
