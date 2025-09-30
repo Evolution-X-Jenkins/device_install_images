@@ -778,27 +778,27 @@
         "versions": {
             "bka": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "bka-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ]
         }
     },
@@ -1808,34 +1808,34 @@
         "device": "kane",
         "versions": {
             "bka": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "bka-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "udc": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "udc-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "vic": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "vic-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ]
         }
     },
@@ -2340,27 +2340,27 @@
         "versions": {
             "bka": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "bka-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ]
         }
     },
@@ -2847,27 +2847,27 @@
         "versions": {
             "bka": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "bka-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "udc-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic": [
                 "boot",
-                "dbto"
+                "dtbo"
             ],
             "vic-vanilla": [
                 "boot",
-                "dbto"
+                "dtbo"
             ]
         }
     },
@@ -3465,34 +3465,34 @@
         "device": "troika",
         "versions": {
             "bka": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "bka-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "udc": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "udc-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "vic": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ],
             "vic-vanilla": [
+                "vbmeta",
                 "boot",
-                "dbto",
-                "vbmeta"
+                "dtbo"
             ]
         }
     },
