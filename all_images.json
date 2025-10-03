@@ -55,22 +55,28 @@
         "device": "a52sxq",
         "versions": {
             "bka": [
-                "recovery"
+                "recovery",
+                "boot"
             ],
             "bka-vanilla": [
-                "recovery"
+                "recovery",
+                "boot"
             ],
             "udc": [
-                "recovery"
+                "recovery",
+                "boot"
             ],
             "udc-vanilla": [
-                "recovery"
+                "recovery",
+                "boot"
             ],
             "vic": [
-                "recovery"
+                "recovery",
+                "boot"
             ],
             "vic-vanilla": [
-                "recovery"
+                "recovery",
+                "boot"
             ]
         }
     },
@@ -2916,16 +2922,10 @@
         "device": "rubyx",
         "versions": {
             "bka": [
-                "boot",
-                "dtbo",
-                "super_empty",
-                "vbmeta"
+                "boot"
             ],
             "bka-vanilla": [
-                "boot",
-                "dtbo",
-                "super_empty",
-                "vbmeta"
+                "boot"
             ],
             "udc": [
                 "super_empty",
@@ -2934,19 +2934,13 @@
                 "boot"
             ],
             "udc-vanilla": [
-                "boot",
-                "dtbo",
-                "super_empty",
-                "vbmeta"
+                "boot"
             ],
             "vic": [
                 "boot"
             ],
             "vic-vanilla": [
-                "boot",
-                "dtbo",
-                "super_empty",
-                "vbmeta"
+                "boot"
             ]
         }
     },
