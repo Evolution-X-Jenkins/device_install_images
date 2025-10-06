@@ -52,6 +52,35 @@
         }
     },
     {
+        "device": "RMX2061",
+        "versions": {
+            "bka": [
+                "dtbo",
+                "boot"
+            ],
+            "bka-vanilla": [
+                "dtbo",
+                "boot"
+            ],
+            "udc": [
+                "dtbo",
+                "boot"
+            ],
+            "udc-vanilla": [
+                "dtbo",
+                "boot"
+            ],
+            "vic": [
+                "dtbo",
+                "boot"
+            ],
+            "vic-vanilla": [
+                "dtbo",
+                "boot"
+            ]
+        }
+    },
+    {
         "device": "a52sxq",
         "versions": {
             "bka": [
