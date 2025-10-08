@@ -1775,12 +1775,14 @@
             "bka": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "bka-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "udc": [
                 "recovery",
@@ -1790,7 +1792,8 @@
             "udc-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "vic": [
                 "recovery",
@@ -1800,7 +1803,8 @@
             "vic-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ]
         }
     },
@@ -1810,12 +1814,14 @@
             "bka": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "bka-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "udc": [
                 "recovery",
@@ -1825,7 +1831,8 @@
             "udc-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "vic": [
                 "recovery",
@@ -1835,7 +1842,8 @@
             "vic-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ]
         }
     },
@@ -1880,12 +1888,14 @@
             "bka": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "bka-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "udc": [
                 "recovery",
@@ -1895,7 +1905,8 @@
             "udc-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "vic": [
                 "recovery",
@@ -1905,7 +1916,8 @@
             "vic-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ]
         }
     },
@@ -2055,12 +2067,14 @@
             "bka": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "bka-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "udc": [
                 "recovery",
@@ -2070,7 +2084,8 @@
             "udc-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ],
             "vic": [
                 "recovery",
@@ -2080,7 +2095,8 @@
             "vic-vanilla": [
                 "recovery",
                 "vbmeta",
-                "dtbo"
+                "dtbo",
+                "boot"
             ]
         }
     },
