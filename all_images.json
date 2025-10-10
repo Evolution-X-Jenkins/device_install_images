@@ -604,6 +604,41 @@
         }
     },
     {
+        "device": "bramble",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "caiman",
         "versions": {
             "bka": [
@@ -2731,6 +2766,41 @@
     },
     {
         "device": "raven",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
+        "device": "redfin",
         "versions": {
             "bka": [
                 "boot",
