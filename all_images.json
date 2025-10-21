@@ -1362,6 +1362,29 @@
         }
     },
     {
+        "device": "fleur",
+        "versions": {
+            "bka": [
+                "boot"
+            ],
+            "bka-vanilla": [
+                "boot"
+            ],
+            "udc": [
+                "boot"
+            ],
+            "udc-vanilla": [
+                "boot"
+            ],
+            "vic": [
+                "boot"
+            ],
+            "vic-vanilla": [
+                "boot"
+            ]
+        }
+    },
+    {
         "device": "garnet",
         "versions": {
             "bka": [
@@ -3739,11 +3762,13 @@
         "versions": {
             "bka": [
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "dtbo"
             ],
             "bka-vanilla": [
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "dtbo"
             ],
             "udc": [
                 "boot",
@@ -3760,7 +3785,8 @@
             ],
             "vic-vanilla": [
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "dtbo"
             ]
         }
     },
