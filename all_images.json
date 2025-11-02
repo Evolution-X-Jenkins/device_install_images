@@ -1365,22 +1365,32 @@
         "device": "fleur",
         "versions": {
             "bka": [
-                "boot"
+                "boot",
+                "vendor_boot",
+                "dtbo"
             ],
             "bka-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot",
+                "dtbo"
             ],
             "udc": [
-                "boot"
+                "boot",
+                "vendor_boot",
+                "dtbo"
             ],
             "udc-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot",
+                "dtbo"
             ],
             "vic": [
                 "boot"
             ],
             "vic-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot",
+                "dtbo"
             ]
         }
     },
