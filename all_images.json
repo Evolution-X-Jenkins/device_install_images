@@ -1487,6 +1487,52 @@
         }
     },
     {
+        "device": "gts4lv",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
+        "device": "gts4lvwifi",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "guacamole",
         "versions": {
             "bka": [
