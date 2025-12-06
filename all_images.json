@@ -1040,22 +1040,34 @@
         "device": "cupid",
         "versions": {
             "bka": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "bka-vanilla": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "udc": [
                 "recovery"
             ],
             "udc-vanilla": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "vic": [
                 "recovery"
             ],
             "vic-vanilla": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ]
         }
     },
