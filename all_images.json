@@ -81,6 +81,35 @@
         }
     },
     {
+        "device": "Spacewar",
+        "versions": {
+            "bka": [
+                "boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "a52sxq",
         "versions": {
             "bka": [
@@ -176,6 +205,29 @@
                 "vendor_kernel_boot",
                 "vendor_boot",
                 "init_boot"
+            ]
+        }
+    },
+    {
+        "device": "apollon",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
             ]
         }
     },
