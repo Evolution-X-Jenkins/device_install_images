@@ -2407,11 +2407,13 @@
             "bka": [
                 "boot",
                 "dtbo",
+                "recovery",
                 "vendor_boot"
             ],
             "bka-vanilla": [
                 "boot",
                 "dtbo",
+                "recovery",
                 "vendor_boot"
             ],
             "udc": [
@@ -2423,6 +2425,7 @@
             "udc-vanilla": [
                 "boot",
                 "dtbo",
+                "recovery",
                 "vendor_boot"
             ],
             "vic": [
@@ -2433,6 +2436,7 @@
             "vic-vanilla": [
                 "boot",
                 "dtbo",
+                "recovery",
                 "vendor_boot"
             ]
         }
