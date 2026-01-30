@@ -2927,11 +2927,13 @@
         "versions": {
             "bka": [
                 "boot",
-                "dtbo"
+                "dtbo",
+                "recovery"
             ],
             "bka-vanilla": [
                 "boot",
-                "dtbo"
+                "dtbo",
+                "recovery"
             ],
             "udc": [
                 "boot",
@@ -2940,7 +2942,8 @@
             ],
             "udc-vanilla": [
                 "boot",
-                "dtbo"
+                "dtbo",
+                "recovery"
             ],
             "vic": [
                 "boot",
@@ -2948,7 +2951,8 @@
             ],
             "vic-vanilla": [
                 "boot",
-                "dtbo"
+                "dtbo",
+                "recovery"
             ]
         }
     },
