@@ -1465,7 +1465,10 @@
                 "recovery"
             ],
             "bka-vanilla": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "udc": [
                 "recovery"
