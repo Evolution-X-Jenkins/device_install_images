@@ -3490,22 +3490,27 @@
         "device": "spes",
         "versions": {
             "bka": [
-                "boot"
+                "boot",
+                "vendor_boot"
             ],
             "bka-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot"
             ],
             "udc": [
-                "boot"
+                "boot",
+                "vendor_boot"
             ],
             "udc-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot"
             ],
             "vic": [
                 "boot"
             ],
             "vic-vanilla": [
-                "boot"
+                "boot",
+                "vendor_boot"
             ]
         }
     },
