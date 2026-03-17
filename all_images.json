@@ -1462,7 +1462,10 @@
         "device": "garnet",
         "versions": {
             "bka": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "bka-vanilla": [
                 "boot",
@@ -1474,7 +1477,10 @@
                 "recovery"
             ],
             "udc-vanilla": [
-                "recovery"
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
             ],
             "vic": [
                 "recovery"
