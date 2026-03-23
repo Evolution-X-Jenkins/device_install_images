@@ -1263,6 +1263,93 @@
         }
     },
     {
+        "device": "dm1q",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "dm2q",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
+        "device": "dm3q",
+        "versions": {
+            "bka": [
+                "recovery",
+                "vbmeta"
+            ],
+            "bka-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc": [
+                "recovery",
+                "vbmeta"
+            ],
+            "udc-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic": [
+                "recovery",
+                "vbmeta"
+            ],
+            "vic-vanilla": [
+                "recovery",
+                "vbmeta"
+            ]
+        }
+    },
+    {
         "device": "dubai",
         "versions": {
             "bka": [
