@@ -1350,6 +1350,53 @@
         }
     },
     {
+        "device": "dodge",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ]
+        }
+    },
+    {
         "device": "dubai",
         "versions": {
             "bka": [
