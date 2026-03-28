@@ -1444,6 +1444,41 @@
         }
     },
     {
+        "device": "duchamp",
+        "versions": {
+            "bka": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "dumpling",
         "versions": {
             "bka": [
