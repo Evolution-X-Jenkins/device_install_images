@@ -168,29 +168,25 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "vic": [
                 "boot",
@@ -203,8 +199,7 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ]
         }
     },
@@ -529,6 +524,47 @@
             ],
             "vic-vanilla": [
                 "recovery"
+            ]
+        }
+    },
+    {
+        "device": "blazer",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
             ]
         }
     },
@@ -1628,6 +1664,47 @@
         }
     },
     {
+        "device": "frankel",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "garnet",
         "versions": {
             "bka": [
@@ -2085,29 +2162,25 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "vic": [
                 "boot",
@@ -2120,8 +2193,7 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ]
         }
     },
@@ -2726,6 +2798,47 @@
             ],
             "vic-vanilla": [
                 "recovery"
+            ]
+        }
+    },
+    {
+        "device": "mustang",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
             ]
         }
     },
@@ -3583,29 +3696,25 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "bka-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "udc-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ],
             "vic": [
                 "boot",
@@ -3618,8 +3727,7 @@
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
-                "vendor_boot",
-                "init_boot"
+                "vendor_boot"
             ]
         }
     },
