@@ -361,6 +361,47 @@
         }
     },
     {
+        "device": "benz",
+        "versions": {
+            "bka": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "berlna",
         "versions": {
             "bka": [
@@ -3230,6 +3271,47 @@
             ],
             "vic-vanilla": [
                 "recovery"
+            ]
+        }
+    },
+    {
+        "device": "rango",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
             ]
         }
     },
