@@ -1,5 +1,28 @@
 [
     {
+        "device": "LH7n",
+        "versions": {
+            "bka": [
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "vendor_boot"
+            ],
+            "udc": [
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "vendor_boot"
+            ],
+            "vic": [
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "PL2",
         "versions": {
             "bka": [
