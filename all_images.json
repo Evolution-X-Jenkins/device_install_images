@@ -390,37 +390,43 @@
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ],
             "bka-vanilla": [
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ],
             "udc": [
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ],
             "udc-vanilla": [
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ],
             "vic": [
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ],
             "vic-vanilla": [
                 "init_boot",
                 "dtbo",
                 "boot",
-                "vendor_boot"
+                "vendor_boot",
+                "recovery"
             ]
         }
     },
