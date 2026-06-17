@@ -4090,37 +4090,22 @@
         "device": "tissot",
         "versions": {
             "bka": [
-                "boot",
-                "dtbo",
-                "recovery",
-                "vendor_boot"
+                "boot"
             ],
             "bka-vanilla": [
-                "boot",
-                "dtbo",
-                "recovery",
-                "vendor_boot"
+                "boot"
             ],
             "udc": [
                 "boot"
             ],
             "udc-vanilla": [
-                "boot",
-                "dtbo",
-                "recovery",
-                "vendor_boot"
+                "boot"
             ],
             "vic": [
-                "boot",
-                "dtbo",
-                "recovery",
-                "vendor_boot"
+                "boot"
             ],
             "vic-vanilla": [
-                "boot",
-                "dtbo",
-                "recovery",
-                "vendor_boot"
+                "boot"
             ]
         }
     },
