@@ -133,6 +133,47 @@
         }
     },
     {
+        "device": "Tetris",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ]
+        }
+    },
+    {
         "device": "a52sxq",
         "versions": {
             "bka": [
@@ -982,6 +1023,8 @@
         "device": "cepheus",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "bka-vanilla": [
@@ -991,12 +1034,16 @@
                 "recovery"
             ],
             "udc-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "vic": [
                 "recovery"
             ],
             "vic-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ]
         }
