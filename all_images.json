@@ -8,6 +8,12 @@
             "bka-vanilla": [
                 "vendor_boot"
             ],
+            "cnb": [
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "vendor_boot"
+            ],
             "udc": [
                 "vendor_boot"
             ],
@@ -31,6 +37,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -52,6 +64,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -85,6 +103,14 @@
                 "dtbo",
                 "boot"
             ],
+            "cnb": [
+                "dtbo",
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "dtbo",
+                "boot"
+            ],
             "udc": [
                 "dtbo",
                 "boot"
@@ -111,6 +137,14 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "vendor_boot"
             ],
@@ -142,6 +176,18 @@
                 "super_empty"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot",
+                "super_empty"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot",
@@ -184,6 +230,14 @@
                 "recovery",
                 "boot"
             ],
+            "cnb": [
+                "recovery",
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "recovery",
+                "boot"
+            ],
             "udc": [
                 "recovery",
                 "boot"
@@ -211,6 +265,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -235,6 +295,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -276,6 +348,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -297,6 +375,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -324,6 +408,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -375,6 +473,18 @@
                 "recovery",
                 "vbmeta"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -410,6 +520,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -435,6 +551,20 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot",
+                "recovery"
+            ],
+            "cnb": [
+                "init_boot",
+                "dtbo",
+                "boot",
+                "vendor_boot",
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "init_boot",
                 "dtbo",
                 "boot",
@@ -488,6 +618,20 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -529,6 +673,14 @@
                 "super_empty",
                 "recovery"
             ],
+            "cnb": [
+                "super_empty",
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "super_empty",
+                "recovery"
+            ],
             "udc": [
                 "super_empty",
                 "recovery"
@@ -555,6 +707,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -576,6 +734,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -601,6 +765,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -622,6 +792,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -648,6 +824,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -692,6 +880,16 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -723,6 +921,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -745,6 +949,12 @@
                 "boot"
             ],
             "bka-vanilla": [
+                "boot"
+            ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
                 "boot"
             ],
             "udc": [
@@ -771,6 +981,18 @@
                 "vbmeta"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -815,6 +1037,16 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -848,6 +1080,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -901,6 +1147,20 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -942,6 +1202,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -993,6 +1267,18 @@
                 "recovery",
                 "vbmeta"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -1030,6 +1316,16 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1056,6 +1352,14 @@
                 "dtbo"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo"
             ],
@@ -1086,6 +1390,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1111,6 +1421,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1156,6 +1480,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1181,6 +1511,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1226,6 +1570,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -1251,6 +1601,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -1285,6 +1647,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1306,6 +1674,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1331,6 +1705,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1352,6 +1732,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1379,6 +1765,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -1426,6 +1826,14 @@
                 "recovery",
                 "vbmeta"
             ],
+            "cnb": [
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "recovery",
                 "vbmeta"
@@ -1452,6 +1860,14 @@
                 "vbmeta"
             ],
             "bka-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb": [
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
                 "recovery",
                 "vbmeta"
             ],
@@ -1484,6 +1900,14 @@
                 "recovery",
                 "vbmeta"
             ],
+            "cnb": [
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "recovery",
                 "vbmeta"
@@ -1513,6 +1937,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -1566,6 +2004,20 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -1609,6 +2061,16 @@
                 "init_boot",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "init_boot",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "init_boot",
@@ -1640,6 +2102,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1663,6 +2131,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -1684,6 +2158,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1711,6 +2191,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1758,6 +2252,14 @@
                 "boot",
                 "dtbo"
             ],
+            "cnb": [
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "dtbo"
@@ -1785,6 +2287,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -1831,6 +2345,18 @@
                 "recovery",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1857,6 +2383,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1878,6 +2410,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1903,6 +2441,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1924,6 +2468,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -1949,6 +2499,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -1972,6 +2528,16 @@
                 "dtbo"
             ],
             "bka-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "cnb": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "vbmeta",
                 "dtbo"
@@ -2011,6 +2577,16 @@
                 "vbmeta",
                 "dtbo"
             ],
+            "cnb": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "vbmeta",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "vbmeta",
@@ -2043,6 +2619,18 @@
                 "vbmeta"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -2089,6 +2677,18 @@
                 "recovery",
                 "vbmeta"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vbmeta"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2126,6 +2726,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -2175,6 +2789,16 @@
                 "vendor_boot",
                 "boot"
             ],
+            "cnb": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "dtbo",
+                "vendor_boot",
+                "boot"
+            ],
             "udc": [
                 "dtbo",
                 "vendor_boot",
@@ -2206,6 +2830,16 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "vbmeta",
                 "dtbo",
                 "recovery"
@@ -2245,6 +2879,16 @@
                 "dtbo",
                 "recovery"
             ],
+            "cnb": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "vbmeta",
+                "dtbo",
+                "recovery"
+            ],
             "udc": [
                 "vbmeta",
                 "dtbo",
@@ -2277,6 +2921,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2324,6 +2980,18 @@
                 "dtbo",
                 "boot"
             ],
+            "cnb": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
             "udc": [
                 "recovery",
                 "vbmeta",
@@ -2358,6 +3026,18 @@
                 "boot"
             ],
             "bka-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb-vanilla": [
                 "recovery",
                 "vbmeta",
                 "dtbo",
@@ -2400,6 +3080,16 @@
                 "boot",
                 "dtbo"
             ],
+            "cnb": [
+                "vbmeta",
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "vbmeta",
+                "boot",
+                "dtbo"
+            ],
             "udc": [
                 "vbmeta",
                 "boot",
@@ -2432,6 +3122,18 @@
                 "boot"
             ],
             "bka-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb-vanilla": [
                 "recovery",
                 "vbmeta",
                 "dtbo",
@@ -2472,6 +3174,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2519,6 +3235,14 @@
                 "boot",
                 "dbto"
             ],
+            "cnb": [
+                "boot",
+                "dbto"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dbto"
+            ],
             "udc": [
                 "boot",
                 "dbto"
@@ -2546,6 +3270,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -2570,6 +3300,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -2616,6 +3358,18 @@
                 "vbmeta",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2652,6 +3406,18 @@
                 "boot"
             ],
             "bka-vanilla": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb": [
+                "recovery",
+                "vbmeta",
+                "dtbo",
+                "boot"
+            ],
+            "cnb-vanilla": [
                 "recovery",
                 "vbmeta",
                 "dtbo",
@@ -2694,6 +3460,16 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2727,6 +3503,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2778,6 +3568,18 @@
                 "recovery",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -2812,6 +3614,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2833,6 +3641,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -2859,6 +3673,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -2899,6 +3725,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2923,6 +3755,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -2963,6 +3807,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -2986,6 +3836,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -3023,6 +3883,14 @@
                 "boot",
                 "dtbo"
             ],
+            "cnb": [
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "dtbo"
@@ -3050,6 +3918,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -3087,6 +3965,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -3132,6 +4024,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -3157,6 +4055,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -3210,6 +4122,20 @@
                 "recovery",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "init_boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "init_boot",
+                "recovery",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -3247,6 +4173,14 @@
                 "super_empty",
                 "recovery"
             ],
+            "cnb": [
+                "super_empty",
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "super_empty",
+                "recovery"
+            ],
             "udc": [
                 "super_empty",
                 "recovery"
@@ -3273,6 +4207,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -3308,6 +4252,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -3329,6 +4279,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -3355,6 +4311,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -3399,6 +4367,16 @@
                 "dtbo",
                 "recovery"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -3429,6 +4407,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -3468,6 +4456,16 @@
                 "dtbo",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -3499,6 +4497,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -3536,6 +4544,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -3589,6 +4611,20 @@
                 "vbmeta_system",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -3630,6 +4666,14 @@
                 "boot",
                 "dtbo"
             ],
+            "cnb": [
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "dtbo"
@@ -3658,6 +4702,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery",
@@ -3698,6 +4754,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "super_empty",
                 "vbmeta",
@@ -3724,6 +4786,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -3747,6 +4815,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "recovery",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "recovery",
                 "vendor_boot"
@@ -3782,6 +4860,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -3805,6 +4889,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -3826,6 +4916,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -3852,6 +4948,18 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -3893,6 +5001,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -3916,6 +5030,16 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "recovery"
@@ -3953,6 +5077,14 @@
                 "boot",
                 "vendor_boot"
             ],
+            "cnb": [
+                "boot",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "vendor_boot"
+            ],
             "udc": [
                 "boot",
                 "vendor_boot"
@@ -3979,6 +5111,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -4002,6 +5140,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -4023,6 +5167,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -4050,6 +5200,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -4103,6 +5267,20 @@
                 "vendor_boot",
                 "init_boot"
             ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
             "udc": [
                 "boot",
                 "dtbo",
@@ -4142,6 +5320,12 @@
             "bka-vanilla": [
                 "boot"
             ],
+            "cnb": [
+                "boot"
+            ],
+            "cnb-vanilla": [
+                "boot"
+            ],
             "udc": [
                 "boot"
             ],
@@ -4167,6 +5351,20 @@
                 "init_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_kernel_boot",
+                "vendor_boot",
+                "init_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_kernel_boot",
@@ -4212,6 +5410,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -4235,6 +5439,16 @@
                 "dtbo"
             ],
             "bka-vanilla": [
+                "vbmeta",
+                "boot",
+                "dtbo"
+            ],
+            "cnb": [
+                "vbmeta",
+                "boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
                 "vbmeta",
                 "boot",
                 "dtbo"
@@ -4272,6 +5486,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -4317,6 +5545,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -4338,6 +5572,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -4363,6 +5603,16 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
@@ -4403,6 +5653,16 @@
                 "vendor_boot",
                 "dtbo"
             ],
+            "cnb": [
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
             "udc": [
                 "boot",
                 "vendor_boot"
@@ -4432,6 +5692,12 @@
             "bka-vanilla": [
                 "recovery"
             ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
             "udc": [
                 "recovery"
             ],
@@ -4453,6 +5719,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
@@ -4480,6 +5752,20 @@
                 "vendor_boot"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vbmeta",
+                "vbmeta_system",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
                 "boot",
                 "dtbo",
                 "vbmeta",
@@ -4531,6 +5817,18 @@
                 "vendor_boot",
                 "dtbo"
             ],
+            "cnb": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
+            "cnb-vanilla": [
+                "recovery",
+                "boot",
+                "vendor_boot",
+                "dtbo"
+            ],
             "udc": [
                 "recovery",
                 "boot",
@@ -4564,6 +5862,12 @@
                 "recovery"
             ],
             "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
                 "recovery"
             ],
             "udc": [
