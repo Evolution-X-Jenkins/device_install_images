@@ -3910,6 +3910,35 @@
         }
     },
     {
+        "device": "op6893",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "oriole",
         "versions": {
             "bka": [
