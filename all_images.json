@@ -5370,6 +5370,35 @@
         }
     },
     {
+        "device": "timelm",
+        "versions": {
+            "bka": [
+                "recovery"
+            ],
+            "bka-vanilla": [
+                "recovery"
+            ],
+            "cnb": [
+                "recovery"
+            ],
+            "cnb-vanilla": [
+                "recovery"
+            ],
+            "udc": [
+                "recovery"
+            ],
+            "udc-vanilla": [
+                "recovery"
+            ],
+            "vic": [
+                "recovery"
+            ],
+            "vic-vanilla": [
+                "recovery"
+            ]
+        }
+    },
+    {
         "device": "tissot",
         "versions": {
             "bka": [
