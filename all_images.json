@@ -5373,27 +5373,43 @@
         "device": "timelm",
         "versions": {
             "bka": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "bka-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "cnb": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "cnb-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "udc": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "udc-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "vic": [
+                "boot",
+                "dtbo",
                 "recovery"
             ],
             "vic-vanilla": [
+                "boot",
+                "dtbo",
                 "recovery"
             ]
         }
