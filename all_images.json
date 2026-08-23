@@ -5309,6 +5309,51 @@
         }
     },
     {
+        "device": "taoyao",
+        "versions": {
+            "bka": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "bka-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "cnb-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "udc-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
+            "vic-vanilla": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
+        }
+    },
+    {
         "device": "tegu",
         "versions": {
             "bka": [
