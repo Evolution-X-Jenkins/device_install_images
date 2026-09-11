@@ -5463,28 +5463,35 @@
         "device": "tissot",
         "versions": {
             "bka": [
-                "boot"
+                "boot",
+                "system"
             ],
             "bka-vanilla": [
-                "boot"
+                "boot",
+                "system"
             ],
             "cnb": [
-                "boot"
+                "boot",
+                "system"
             ],
             "cnb-vanilla": [
-                "boot"
+                "boot",
+                "system"
             ],
             "udc": [
                 "boot"
             ],
             "udc-vanilla": [
-                "boot"
+                "boot",
+                "system"
             ],
             "vic": [
-                "boot"
+                "boot",
+                "system"
             ],
             "vic-vanilla": [
-                "boot"
+                "boot",
+                "system"
             ]
         }
     },
